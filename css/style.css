@@ -112,6 +112,7 @@ color: #2e2f42;
   line-height: 1.2 ;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 
 }
 .paragraf{
@@ -192,4 +193,17 @@ align-items: center;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+.section-two{
+  padding: 120px 0;
+}
+.visually-hidden {
+  display: none;
+}
+.main-ul {
+  display: flex;
+  gap: 24px;
+}
+.li-main {
+  width: calc((100% - 72px) / 4);
 }
