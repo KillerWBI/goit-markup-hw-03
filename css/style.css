@@ -168,10 +168,12 @@ img {
 }
 .head-container{
 display: flex;
+align-items: center;
 }
 .nav-content{
   display: flex;
   align-items: center;
+
 }
 .pod-list {
   padding: 24px 0;
