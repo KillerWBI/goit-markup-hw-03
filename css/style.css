@@ -142,6 +142,7 @@ color: #2e2f42;
 
 .down {
 background-color: #2e2f42;
+padding: 100px 0;
 }
 .stusiotwo {
   color: #f4f4fd;
@@ -245,4 +246,8 @@ align-items: center;
 }
 .app {
   margin-bottom: 8px;
+}
+.logo-two{
+  display: inline-block;
+  margin-bottom: 16px;
 }
