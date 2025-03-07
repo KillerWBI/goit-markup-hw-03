@@ -254,6 +254,6 @@ align-items: center;
 .width-two {
    width: calc((100% - 48px) / 3); 
 }
-.wdx{
-  width: calc((100% - 72px) / 4);
+.wdx {
+  width: calc((100% - 3 * 24px) / 4);
 }
