@@ -251,3 +251,6 @@ align-items: center;
   display: inline-block;
   margin-bottom: 16px;
 }
+.with{
+  max-width: 264px ;
+}
