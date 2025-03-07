@@ -154,3 +154,9 @@ list-style: none;
   display: flex;
   justify-content: space-between;
 }
+.list{
+  display: flex;
+}
+nav {
+  display: flex;
+}
