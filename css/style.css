@@ -137,7 +137,6 @@ color: #2e2f42;
 }
 .work{
   background-color: #FFFFFF;
-  width: calc((100% - 72px) / 4); 
   border-radius: 0px 0px 4px 4px;
 }
 
@@ -203,6 +202,7 @@ align-items: center;
 }
 .visually-hidden {
   display: none;
+  visibility: hidden;
 }
 .main-ul {
   display: flex;
