@@ -251,12 +251,6 @@ align-items: center;
 .with{
   max-width: 264px ;
 }
-.width-one {
-  width: calc((100% - 72px) / 4);
-}
-.width-ftre{
-
-}
 .width-two {
    width: calc((100% - 48px) / 3); 
 }
