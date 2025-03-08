@@ -220,6 +220,7 @@ align-items: center;
 .team-card {
   display: flex;
   gap: 24px;
+  padding: 0px;
 
 } 
 .name-profesional{
@@ -241,6 +242,7 @@ align-items: center;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px; 
+  padding: 0px;
 }
 .li-app{
   width: calc((100% - 48px) / 3);
@@ -262,11 +264,9 @@ align-items: center;
 }
 .width-two {
    width: calc((100% - 48px) / 3); 
-   padding: 0px 0px 0px 0px;
-   margin: 0px;
+
    }
 .wdx {
-  width: calc((100% - 72px) / 4);
-  padding: 0px 0px 0px 0px;
-  margin: 0px 0px ;
+  width: calc((100% - 48px) / 4);
+  
 }
