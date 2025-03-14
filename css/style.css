@@ -4,7 +4,18 @@
     font-weight: NUMERIC_WEIGHT_VALUE;
     src: url(FONT_FILE_NAME.woff2) format('woff2');
   }
-
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+  }
+  ul, li {
+    padding-left: 0;
+  }
   body {
     color: #434455;
     background-color:  #FFFFFF;
