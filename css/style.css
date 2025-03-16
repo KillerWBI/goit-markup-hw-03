@@ -20,6 +20,9 @@
     background-color:  #FFFFFF;
     font-family: "Roboto", sans-serif ; 
   }
+  a {
+    display: block;
+  }
 
   .raleway-uniquifier {
     font-family: "Raleway", sans-serif;
@@ -207,6 +210,7 @@ align-items: center;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 20px;
 }
 .section-two{
   padding: 120px 0;
